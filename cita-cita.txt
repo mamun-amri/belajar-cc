@@ -1,3 +1,4 @@
 1.membereskan tutorial CSS
 2.membuat tutorial HTML dasar
 3.membuat content di youtube
+4.mengupas teknologi
